@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/numpy_kennenlernen.iml" filepath="$PROJECT_DIR$/.idea/numpy_kennenlernen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/num_py.iml" filepath="$PROJECT_DIR$/.idea/num_py.iml" />
     </modules>
   </component>
 </project>
