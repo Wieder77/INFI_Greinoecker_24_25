@@ -1,0 +1,320 @@
+Aufgabe 2.1:
+Summe der Einwohner in Tirol über die Jahre verteilt:
+[640375, 647954, 652242, 654113, 658498, 661901, 665391, 668348, 672209, 675701, 679457, 683639, 688954, 694253, 697253, 699588, 702502, 704662, 707517, 711581, 715888, 722038, 728826, 739139, 746153, 751140, 754705, 757634, 760105]
+Man sieht, dass die Bevölkerung in Tirol über die Jahre durchgehend gestiegen ist. Es gab zwar Jahre in der die Bevölkerungszahl kurzzeitig sank, jedoch stieg sie in den darauffolgenden Jahren wieder an.
+Im durchschnitt steigt die Bevölkerung in Tirol stetig an.
+
+Aufgabe 2.2:
+Prognose der Bevölkerungsentwicklung in Tirol:
+0     639349.662069
+1     643538.395567
+2     647727.129064
+3     651915.862562
+4     656104.596059
+5     660293.329557
+6     664482.063054
+7     668670.796552
+8     672859.530049
+9     677048.263547
+10    681236.997044
+11    685425.730542
+12    689614.464039
+13    693803.197537
+14    697991.931034
+15    702180.664532
+16    706369.398030
+17    710558.131527
+18    714746.865025
+19    718935.598522
+20    723124.332020
+21    727313.065517
+22    731501.799015
+23    735690.532512
+24    739879.266010
+25    744067.999507
+26    748256.733005
+27    752445.466502
+28    756634.200000
+29    760822.933498
+30    765011.666995
+31    769200.400493
+32    773389.133990
+33    777577.867488
+34    781766.600985
+35    785955.334483
+36    790144.067980
+37    794332.801478
+38    798521.534975
+39    802710.268473
+40    806899.001970
+41    811087.735468
+42    815276.468966
+43    819465.202463
+44    823653.935961
+45    827842.669458
+46    832031.402956
+47    836220.136453
+
+Was wir hier sehen sind die Werte der Prognose der Bevölkerungsentwicklung in Tirol. Diese Werte verbunden ergeben eine linare Funktion welche stetig zunimmt.
+Mann kann erkennen die Bevölkerung in Tirol in den nächsten Jahren steigen wird. Wenn die Bevölkerung in ähnlicher Geschwindigkeit zunimmt wird die Bevölkerung in Tirol
+im Jahre 2040 bei ca. 836220 liegen.
+
+
+Aufgabe 3:
+Bevölkerungsentwicklung in Hall in Tirol:
+0     12364
+1     12080
+2     11936
+3     11758
+4     11810
+5     11699
+6     11526
+7     11447
+8     11385
+9     11561
+10    11547
+11    11554
+12    12035
+13    12338
+14    12396
+15    12337
+16    12411
+17    12511
+18    12688
+19    12888
+20    12956
+21    13171
+22    13577
+23    13687
+24    13801
+25    13897
+26    13942
+27    14153
+28    14243
+
+Prognose der Bevölkerungsentwicklung in Hall in Tirol:
+0     11221.441379
+1     11315.717734
+2     11409.994089
+3     11504.270443
+4     11598.546798
+5     11692.823153
+6     11787.099507
+7     11881.375862
+8     11975.652217
+9     12069.928571
+10    12164.204926
+11    12258.481281
+12    12352.757635
+13    12447.033990
+14    12541.310345
+15    12635.586700
+16    12729.863054
+17    12824.139409
+18    12918.415764
+19    13012.692118
+20    13106.968473
+21    13201.244828
+22    13295.521182
+23    13389.797537
+24    13484.073892
+25    13578.350246
+26    13672.626601
+27    13766.902956
+28    13861.179310
+29    13955.455665
+30    14049.732020
+31    14144.008374
+32    14238.284729
+33    14332.561084
+34    14426.837438
+35    14521.113793
+36    14615.390148
+37    14709.666502
+38    14803.942857
+39    14898.219212
+40    14992.495567
+41    15086.771921
+42    15181.048276
+43    15275.324631
+44    15369.600985
+45    15463.877340
+46    15558.153695
+47    15652.430049
+
+Aus diesen beiden Datensätzen lässt sich dasselbe erkennen, diesmal jedoch für Hall in Tirol. Die Bevölkerung in Hall in Tirol steigt stetig an.
+Überraschend ist jedoch das die Bevölkerung in Hall in den späten 90er-Jahren abgenommen hat.
+Dies erkläre ich mir damit, dass die Verkehrsverbindungen in die umliegenden Dörfer verbessert wurden und sich dadurch viele Haller entschieden haben, in ein Nachbardorf umzuziehen.
+Was ein weitere Ursache sein könnte, ist ein Fehler im Datensatz was jedoch für unwahrscheinlich halte.
+Anfang der 2000er-Jahre hat sich dieser Trend wieder umgekehrt, und die Bevölkerung in Hall ist erneut gestiegen.
+
+Wenn sich nicht viel ändern wird hat Hall ende 2040 eine Bevölkerung von ca. 15652. Man muss aber bedenken, dass in der Prognose auch der starke down Trend in den späten 90er-Jahren mit einbezogen wurde.
+Deshalb kann es gut sein das die Bevölkerung in Hall in den nächsten Jahren stärker steigt als in der Prognose angegeben.
+
+Aufgabe 4:
+Bevölkerungsentwicklung in IL:
+0     145908
+1     147122
+2     148313
+3     150241
+4     151108
+5     151857
+6     152779
+7     153496
+8     154412
+9     155474
+10    156471
+11    157806
+12    159481
+13    160961
+14    162133
+15    162860
+16    163772
+17    164656
+18    165619
+19    167031
+20    167954
+21    169680
+22    172041
+23    174217
+24    176054
+25    177804
+26    179318
+27    180453
+28    181698
+
+Prognose der Bevölkerungsentwicklung in IL:
+0     144960.241379
+1     146208.694581
+2     147457.147783
+3     148705.600985
+4     149954.054187
+5     151202.507389
+6     152450.960591
+7     153699.413793
+8     154947.866995
+9     156196.320197
+10    157444.773399
+11    158693.226601
+12    159941.679803
+13    161190.133005
+14    162438.586207
+15    163687.039409
+16    164935.492611
+17    166183.945813
+18    167432.399015
+19    168680.852217
+20    169929.305419
+21    171177.758621
+22    172426.211823
+23    173674.665025
+24    174923.118227
+25    176171.571429
+26    177420.024631
+27    178668.477833
+28    179916.931034
+29    181165.384236
+30    182413.837438
+31    183662.290640
+32    184910.743842
+33    186159.197044
+34    187407.650246
+35    188656.103448
+36    189904.556650
+37    191153.009852
+38    192401.463054
+39    193649.916256
+40    194898.369458
+41    196146.822660
+42    197395.275862
+43    198643.729064
+44    199892.182266
+45    201140.635468
+46    202389.088670
+47    203637.541872
+
+Bevölkerungsentwicklung in RE:
+0     30305
+1     30566
+2     30762
+3     31021
+4     31043
+5     31186
+6     31305
+7     31445
+8     31428
+9     31578
+10    31719
+11    31717
+12    31795
+13    31766
+14    31778
+15    31837
+16    31761
+17    31676
+18    31607
+19    31654
+20    31647
+21    31672
+22    31691
+23    32036
+24    32399
+25    32532
+26    32670
+27    32838
+28    33054
+
+Prognose der Bevölkerungsentwicklung in RE:
+0     30744.055172
+1     30810.336946
+2     30876.618719
+3     30942.900493
+4     31009.182266
+5     31075.464039
+6     31141.745813
+7     31208.027586
+8     31274.309360
+9     31340.591133
+10    31406.872906
+11    31473.154680
+12    31539.436453
+13    31605.718227
+14    31672.000000
+15    31738.281773
+16    31804.563547
+17    31870.845320
+18    31937.127094
+19    32003.408867
+20    32069.690640
+21    32135.972414
+22    32202.254187
+23    32268.535961
+24    32334.817734
+25    32401.099507
+26    32467.381281
+27    32533.663054
+28    32599.944828
+29    32666.226601
+30    32732.508374
+31    32798.790148
+32    32865.071921
+33    32931.353695
+34    32997.635468
+35    33063.917241
+36    33130.199015
+37    33196.480788
+38    33262.762562
+39    33329.044335
+40    33395.326108
+41    33461.607882
+42    33527.889655
+43    33594.171429
+44    33660.453202
+45    33726.734975
+46    33793.016749
+47    33859.298522
+
+
+In dem Vergleich zwischen den Wert IL und Reutte lässt sich klar erkennen auch ohne Legende welche Grafik zu welchen Bezirk gehört.
+Man bemerkt schnell wie das Innsbruck Land eine größere Bevölkerung hat als Reutte.
+Außerdem erkennt man aus dem Vergleich der zwei Prognosen, dass die Bevölkerung in IL erstens 2040 nicht überraschend größer sein wird als in Reutte und zweitens, dass die Bevölkerung in IL stärker steigen wird als in Reutte.

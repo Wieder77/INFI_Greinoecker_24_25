@@ -1,0 +1,174 @@
+1.3 :
+Describe Command:
+count    2.760000e+02
+mean     8.116164e+04
+std      1.684126e+05
+min      3.400000e+01
+25%      5.786250e+03
+50%      2.167850e+04
+75%      7.708775e+04
+max      1.644428e+06
+Mithilfe der Describe Funktion kann man gewisse Daten über die Spalte x2000 herausfinden.
+Man sieht hier die Anzahl der Einträge, den Durchschnitt, die Standardabweichung, das Minimum, das 25%, 50%, 75% und das Maximum.
+
+2.1 :
+Nächtigungen Innsbruck:
+[454440 485436 488649 488026 503198 519628 508514 525369 584257 533182
+ 569507 581081 631423 633126 634591 667645 703027 714566 737644 781571
+ 591010 82662 416075 751321]
+Man sieht hier alle Nächtigungzahlen in Innsbruck für die Jahre 2000-2023. Man sieht an diesen Zahlen, dass die Nächtigungen in Innsbruck von Jahr zu Jahr steigen.
+
+2.2 :
+Nächtigungen Hall in Tirol:
+[2695482 2817605 2818643 2877890 2848108 2862165 2746198 2689356 2792205
+ 2663362 2606239 2516778 2646272 2692462 2591829 2647102 2754635 2753961
+ 2839759 2825088 2346234  153956 1979656 2574959]
+Man sieht hier alle Nächtigungzahlen in Hall in Tirol für die Jahre 2000-2023. Man sieht an diesen Zahlen, dass die Nächtigungen in Hall in Tirol von Jahr zu Jahr steigen.
+
+
+3.1:
+Minimalen Nächtigungen in den Städten:
+0      82662
+1       2527
+2       2349
+3       4650
+4       1186
+       ...
+272     1765
+273     3488
+274     5110
+275     1571
+276      273
+Man sieht hier die minimalen Nächtigungen aller Jahre für die Städte. Es sind in diesem sonder Fall immer die Zahlen aus dem Jahr 2021.
+Da in dieser Zeit die Conrona Pandemie war und dadurch die Nächtigungen in den Städten sehr stark zurückgegangen sind.
+
+Maximalen Nächtigungen in den Städten:
+0      781571
+1       68566
+2       78794
+3      104521
+4        5733
+        ...
+272     21371
+273     25565
+274     27434
+275    216870
+276     65224
+Man sieht hier die maximalen Nächtigungen aller Jahre für die Städte.
+
+Durchschnitlliche Nächtigungen in den Städten:
+0      555776.192308
+1       55161.307692
+2       47303.230769
+3       79420.153846
+4        4121.192308
+           ...
+272     12770.576923
+273     20279.846154
+274     17703.192308
+275    176427.230769
+276     50012.923077
+Man sieht hier die Durchschnittlichen Nächtigungen aller Jahre für die Städte.
+
+Spannweite Nächtigungen in den Städten:
+0      698909
+1       66039
+2       76445
+3       99871
+4        4547
+        ...
+272     19606
+273     22077
+274     22324
+275    215299
+276     64951
+Man sieht hier wie groß die Schwankung der Nächtigungen in den Städten über die Jahre war.
+
+3.2:
+Summe aller Nächtigungen Jährlich:
+x2000    22400614
+x2001    23503160
+x2002    23870576
+x2003    24345343
+x2004    24648277
+x2005    25047404
+x2006    24766815
+x2007    24062117
+x2008    25612058
+x2009    25584483
+x2010    25241464
+x2011    24830645
+x2012    25699115
+x2013    26220901
+x2014    25370402
+x2015    25960806
+x2016    26804089
+x2017    26463858
+x2018    27583016
+x2019    27485847
+x2020    22925568
+x2021      712998
+x2022    20909636
+x2023    25707235
+dtype: int64
+Man sieht hier die Summe aller Nächtigungen für jedes Jahr. Man erkennt wiederum das die Nächtigungen von Jahr zu Jahr steigen.
+Außer 2021 war die Ausnahme.
+
+Summe aller Nächtigungen:
+575 756 427
+Man sieht hier die Summe aller Nächtigungen von 2000-2023. Es waren um die 575 Millionen Nächtigungen.
+
+5:
+5a:
+Verhältnis von Nächtigungen zur Einwohnerzahl für das Jahr 2018:
+0        5.567419
+1       18.617422
+2       16.912213
+3        8.361672
+4        6.029601
+          ...
+270      3.819363
+271      8.524174
+272      7.542844
+273    116.319113
+274    100.654321
+Diese Zahlen zeigen das Verhältnis von Nächtigungen zur Einwohnerzahl für das Jahr 2018. Man erkennt das in Innsbruck das Verhältnis überaschender Weise am sehr niedrig ist.
+Obwohl Innsbruck eine sehr hohe Anzahl an Nächtigungen hat, hat Innsbruck auch viele Einwohner. Daher kommt auf jedem Einwohner nur um die 5 Nächtigungen.
+
+
+5c:
+Top 10 Gemeinden mit dem höchsten Tourismus-Einwohner-Verhältnis:
+    Bezirk_x  Gemnr  ... x2021_y  statartiesierter_vergleich
+143       LA  70608  ...    1564                  880.595731
+159       LA  70624  ...    1151                  686.507937
+20        IM  70220  ...    2955                  651.453418
+138       LA  70603  ...     995                  618.947473
+246       SZ  70912  ...     805                  558.364557
+141       LA  70606  ...     767                  451.886275
+156       LA  70621  ...    2357                  439.926223
+148       LA  70613  ...     539                  386.557439
+267       SZ  70934  ...    1924                  339.003091
+209       RE  70811  ...     597                  330.539232
+
+
+Top 10 Gemeinden mit dem niedrigsten Tourismus-Einwohner-Verhältnis:
+    Bezirk_x  Gemnr  ... x2021_y  statartiesierter_vergleich
+60        IL  70343  ...    1090                    0.055970
+80        IL  70364  ...    6963                    0.072425
+189       LZ  70725  ...     297                    0.136842
+11        IM  70211  ...    1308                    0.203445
+33        IL  70309  ...    2148                    0.325419
+161       LA  70626  ...     576                    0.376083
+157       LA  70622  ...    1658                    0.437242
+54        IL  70335  ...    1902                    0.562197
+118       KU  70514  ...    4762                    0.715054
+167       LZ  70702  ...     921                    0.729701
+
+In der oberen zwei Tabellen sieht man die 10 Gemeinden mit dem höchsten und den 10 Gemeinden mit dem niedrigsten Tourismus-Einwohner-Verhältnis.
+Wenn die Zahl kleiner als 1 ist, dann hat die Gemeinde mehr Einwohner als Nächtigungen. Wenn die Zahl größer als 1 ist, dann hat die Gemeinde mehr Nächtigungen als Einwohner.
+
+5d:
+Tourismus-Einwohner-Verhältnis für Hall in Tirol:
+[2.81031877]
+In Hall sind auf jeden Einwohner 2.81 Nächtigungen gewesen. Das ist wenig überaschend da Hall in Tirol viele Einwohner hat und es viele Dörfer um  Hall gibt
+wo es für Touristen attraktiver ist zu übernachten. Deshalb ist das Verhältnis nicht so hoch.
